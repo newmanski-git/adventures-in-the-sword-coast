@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-[[02 World Almanac/World/Factions/Factions of The Sword Coast\|Factions of The Sword Coast]]
 > [!infobox|right wikipedia]
 > # Heading
 > ![[Image.png\|Image.png]]
@@ -17,3 +16,9 @@
 > 	- Testing
 > 	- Testing
 > - Testing
+## Links
+The Sword Coast Atlas
+
+[[02 World Almanac/World/Factions/Factions of The Sword Coast\|Factions of The Sword Coast]]
+
+Gods of Faerun
