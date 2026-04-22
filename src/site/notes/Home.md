@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-> [!infobox|right wikipedia]+
+[[02 World Almanac/World/Factions/Factions of The Sword Coast\|Factions of The Sword Coast]]
+> [!infobox|right wikipedia]
 > # Heading
 > ![[Image.png\|Image.png]]
 > ###### Heading 6
