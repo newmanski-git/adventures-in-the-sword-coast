@@ -5,43 +5,49 @@
 # The Harpers
 
 ## Overview
-
+> [!infobox|right wikipedia]
+> # The Harpers
+> ![hrprs.jpg](/img/user/z_assets/hrprs.jpg)
+> ###### Spy Network
+> |  |  |  |
+> | ---- | --- |--- |
+> | ==LG== | ==NG== | ==CG== |
+> | LN | N | CN |
+> | LE | NE | CE |
+> 
+> # Heading 1
+> - Bullet list
+> 	- Testing
+> 	- Testing
+> - Testing
 **Type**: Other
-
-**Alignment**: Chaotic Evil, Chaotic Good, Chaotic Neutral, Lawful Evil, Lawful Good, Lawful Neutral, Neutral, Neutral Evil, Neutral Good, Unaligned
-
-### Placeholder Iconography
-
-![Placeholder Iconography](https://publish-01.obsidian.md/access/36b98e212e9d73fe1bd4813f96b0fd71/z_Assets/Misc/ImagePlaceholder.png)  
-[open outside](https://obsidianttrpgtutorials.com/z_Assets/Misc/ImagePlaceholder.png)
-
-Placeholder
 
 ## Profile
 
-Placeholder
+Unknown
 
 ## Story
 
-Placeholder
+Unknown
 
 ## Philosophy
 
-Placeholder
+Unknown
 
 ## Relationships
 
-Placeholder
+Unknown
 
 ## Organization
 
-**Headquarters**: Placeholder
+**Headquarters**: Unknown
 
-**Leader(s)**: Placeholder
+**Leader(s)**: Unknown
 
-**Prominent Members**: Placeholder
+**Prominent Members**:
+Mirt the Moneylender
 
-Placeholder
+Maxeene the Talking Mare
 
 ## Resources
 
