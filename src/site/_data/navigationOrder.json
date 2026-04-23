@@ -1,0 +1,20 @@
+{
+  "/": [
+    "Home",
+    "02 World Almanac"
+  ],
+  "/02 World Almanac": [
+    "World"
+  ],
+  "/02 World Almanac/World": [
+    "Factions",
+    "Sword Coast"
+  ],
+  "/02 World Almanac/World/Factions": [
+    "Factions of The Sword Coast",
+    "The Harpers"
+  ],
+  "/02 World Almanac/World/Sword Coast": [
+    "The Sword Coast Atlas"
+  ]
+}
