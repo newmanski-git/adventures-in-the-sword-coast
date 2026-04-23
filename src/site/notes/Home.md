@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dgShowInlineTitle":"false","dg-note-properties":{}}
 ---
 
 ![homebannerclear.png](/img/user/z_assets/homebannerclear.png)
