@@ -3,6 +3,14 @@
 ---
 
 ![homebannerclear.png](/img/user/z_assets/homebannerclear.png)
+## Session Log
+|                       | Session              |
+| --------------------- | -------------------- |
+| [[Journal/01\|01]] | Trouble in Waterdeep |
+| [[Journal/02\|02]] | A Daring Rescue      |
+
+{ .block-language-dataview}
+
 ## Links
 
 [[World Almanac/World/Sword Coast/The Sword Coast Atlas\|The Sword Coast Atlas]]
