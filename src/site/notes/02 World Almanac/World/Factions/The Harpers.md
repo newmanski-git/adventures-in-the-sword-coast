@@ -12,12 +12,9 @@
 > | LN | N | CN |
 > | LE | NE | CE |
 > 
-> # Heading 1
-> - Bullet list
-> 	- Testing
-> 	- Testing
-> - Testing
-**Type**: Other
+> # Contacts
+> - Mirt the Moneylender
+>
 
 ## Profile
 
@@ -25,11 +22,13 @@ The Harpers are a semi-secret organization of do-gooders and idealists who striv
 
 ## Story
 
-Unknown
+The players were approached by [[02 World Almanac/World/People/Renarr Neverember\|Renarr Neverember]] on behalf of The Harpers  after they saved both himself and [[02 World Almanac/World/People/Floon Blaagmart\|Floon Blaagmart]] from their kidnappers.
+
+Mirt the Moneylender invited the players to join their cause, and the players accepted.
 
 ## Philosophy
 
-Unknown
+The Harpers believe in the power of the individual over that of the sprawling kingdoms with laws that oppressed individual liberty. They seek to maintain balance between all things, civilization and nature, societal order and personal liberty.
 
 ## Relationships
 
@@ -52,7 +51,7 @@ Unknown
 
 ## Methods
 
-Unknown
+Due to their secretive nature, The Harpers tend to communicate using magical means to reduce the likelihood that messages could be traced back to an individual.
 
 ## Background
 
