@@ -41,9 +41,8 @@ Unknown
 **Leader(s)**: Unknown
 
 **Prominent Members**:
-Mirt the Moneylender
-
-Maxeene the Talking Mare
+- Mirt the Moneylender
+- Maxeene the Talking Mare
 
 ## Resources
 
