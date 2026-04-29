@@ -23,7 +23,7 @@ The Harpers are a semi-secret organization of do-gooders and idealists who striv
 
 ## Story
 
-The players were approached by [[World Almanac/World/People/Renarr Neverember\|Renarr Neverember]] on behalf of The Harpers  after they saved both himself and [[World Almanac/World/People/Floon Blaagmart\|Floon Blaagmart]] from their kidnappers.
+The players were approached by [[World Almanac/World/People/Renaer Neverember\|Renaer Neverember]] on behalf of The Harpers  after they saved both himself and [[World Almanac/World/People/Floon Blaagmart\|Floon Blaagmart]] from their kidnappers.
 
 Mirt the Moneylender invited the players to join their cause, and the players accepted.
 

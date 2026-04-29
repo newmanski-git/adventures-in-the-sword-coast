@@ -10,14 +10,14 @@
 > | ---- | --- |--- |
 > | LG | NG | CG |
 > | LN | N | CN |
-> | LE | NE | CE |
+> | ==LE== | ==NE== | ==CE== |
 > 
 > # Contacts
 > - Unknown
 
 ## Profile
 
-Shortdescription
+The Xanathar's Guild are an organized gang that has recently started causing trouble in Waterdeep. They seem to get incredibly violent with a rival group, [[World Almanac/World/Factions/The Zhentarim\|The Zhentarim]].
 
 ## Story
 

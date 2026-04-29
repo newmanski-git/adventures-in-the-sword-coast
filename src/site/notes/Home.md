@@ -4,10 +4,14 @@
 
 ![homebannerclear.png](/img/user/z_assets/homebannerclear.png)
 ## Session Log
-|                       | Session              |
-| --------------------- | -------------------- |
-| [[Journal/01\|01]] | Trouble in Waterdeep |
-| [[Journal/02\|02]] | A Daring Rescue      |
+|                       | Session                          |
+| --------------------- | -------------------------------- |
+| [[Journal/01\|01]] | Trouble in Waterdeep             |
+| [[Journal/02\|02]] | A Daring Rescue                  |
+| [[Journal/03\|03]] | Sinister Sewer Suprises          |
+| [[Journal/04\|04]] | \-                               |
+| [[Journal/05\|05]] | \-                               |
+| [[Journal/06\|06]] | Narrowing down the Nimblewrights |
 
 { .block-language-dataview}
 
