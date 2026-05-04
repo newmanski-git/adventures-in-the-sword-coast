@@ -8,3 +8,5 @@ The Sword Coast is home to many factions and organizations - some public, some s
 - [[World Almanac/World/Factions/The Harpers\|The Harpers]]
 - [[World Almanac/World/Factions/The Xanathar's Guild\|The Xanathar's Guild]]
 - [[World Almanac/World/Factions/The Zhentarim\|The Zhentarim]]
+
+{ .block-language-dataview}
